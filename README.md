@@ -35,15 +35,15 @@ g++ -std=c++17 *.cpp -o PnetPhlix
 ```
 ## 📁 Project Structure
 
-├── src/
-│   ├── TreeMultimap.h
-│   ├── MovieDatabase.cpp
-│   ├── UserDatabase.cpp
-│   ├── Movie.h
-│   └── Recommender.cpp
-├── tests/
-│   └── unit_tests.cpp
-└── README.md
+- ├── src/
+- │   ├── TreeMultimap.h
+- │   ├── MovieDatabase.cpp
+- │   ├── UserDatabase.cpp
+- │   ├── Movie.h
+- │   └── Recommender.cpp
+- ├── tests/
+- │   └── unit_tests.cpp
+- └── README.md
 
 
 ## 🤝 Contributing
