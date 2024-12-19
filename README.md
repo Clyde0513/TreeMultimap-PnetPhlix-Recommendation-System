@@ -1,7 +1,6 @@
 # 🎬 TreeMultimap & PnetPhlix Recommendation System
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![C++](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c%2B%2B)](https://isocpp.org/)
 
 ## 📝 Overview
 
